@@ -222,15 +222,19 @@ h3{
 }
 .footerSection{
 	background-color: #5e736e;
-	padding-top: 10px;
+	padding-top: 18px;
 	color: #ffffff;
 	border-top: 1px solid #ffffff;
 }
 .footerSection h4{
-	padding-left: 10px;
+	padding: 6px;
+	background-color: #292929;
+	display: inline;
+	border-radius: 5px;
+	margin-top: 10px;
 }
 .footerBox{
-	padding: 15px;
+	padding: 0px;
 	margin: 10px;
 	border-radius: 10px;
 }
