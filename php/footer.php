@@ -50,7 +50,7 @@
                                         <li><a href="#">Fax: 814.474.5205</a></li>
                                         <li><a href="#">Address: 7401 Kiler Drive, Fairview, PA 16415</a></li>
                                         <li><a href="#">Sales: greg@afusa.net</a></li>
-                                        <li><a href="#">YouTube</a></li>
+                                        <li><a href="#"><img src="img/youtubeicon.png"></a></li>
                                     </ol> 
                                 </div>
                          </div>

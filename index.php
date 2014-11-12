@@ -21,7 +21,7 @@
                 </div>
     </section>
 
-    <section class="certificationRow">
+    <section class="bodyBlue">
                 <div class="container">
                      <div class="row">
                         <div class="sherrieSection">
@@ -30,27 +30,27 @@
                                   <div class="row">
                                     <div class="col-sm-4 col-md-4">
                                       <div class="thumbnail">
+                                        <img src="img/placeholder.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                        <img src="img/your_needs.png" width="45px" height="45px" alt"" class="img-responsive">
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit.</p>
+                                          <p>Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit. Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit.</p>
                                           <p><a href="#" class="btn btn-block" role="button">YOUR NEEDS</a></p>
                                         </div>
                                       </div>
                                     </div>
                                     <div class="col-sm-4 col-md-4">
                                       <div class="thumbnail">
+                                        <img src="img/placeholder.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                        <img src="img/your_needs.png" width="45px" height="45px" alt"" class="img-responsive">                                    
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit.</p>
+                                          <p>Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit. Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit.</p>
                                           <p><a href="#" class="btn btn-block" role="button">YOUR SPECS</a></p>
                                         </div>
                                       </div>
                                     </div>
                                     <div class="col-sm-4 col-md-4">
                                       <div class="thumbnail">
+                                        <img src="img/placeholder.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                         <img src="img/your_needs.png" width="45px" height="45px" alt"" class="img-responsive">                                         
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit.</p>
+                                          <p>Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit. Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit.</p>
                                           <p><a href="#" class="btn btn-block" role="button">SERVICES</a></p>
                                         </div>
                                       </div>

@@ -7,7 +7,7 @@
                             </div>
                             <div class="col-lg-6 col-sm-7 headercontactInfo">
                                 <ul class="contactNumbers">
-                                  <li class="list-group-item"><a href="tel:214-630-3965" class="btn btn-block btn-Call" role="button">CALL US TODAY</a></li>
+                                  <li class="list-group-item"><a href="tel:1-814-474-5200" class="btn btn-block btn-Call" role="button">814.474.5200</a></li>
                                 </ul>
                             </div>
                         </header>

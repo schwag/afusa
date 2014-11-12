@@ -56,11 +56,15 @@ h3{
 }
 .navbar-inverse .navbar-nav>li>a{
 	color: #ffffff;
+	border-radius: 4px;
 }
 .navbar-inverse .navbar-toggle {
 	color: white;
 	font-weight: bold;
 	border-color: white;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	padding: 10px;
 }
 .navbar-inverse .navbar-toggle:hover {
 	background-color: #0055a3;
@@ -94,7 +98,7 @@ h3{
 }
 .blueBackground{
 	background-color: #0055a3;
-	padding: 10px;
+	padding: 15px;
 }
 .logoBackground{
 	background-color: #ffffff;
@@ -110,6 +114,14 @@ h3{
 }
 .contactNumbers li{
 	float: right;
+}
+.list-group-item {
+	position: relative;
+	display: block;
+	padding: 10px 0px;
+	margin-bottom: -1px;
+	background-color: #fff;
+	border: none;
 }
 .glyphicon.glyphicon-search{
 	float: right;
@@ -177,19 +189,21 @@ h3{
 }
 .thumbnail{
 	display: block;
-	padding: 4px;
+	padding: 6px;
+	margin-bottom: 10px;
 	line-height: 1.42857143;
-	background-color: #699bc9;
+	background-color: #ffffff;
 	-webkit-transition: all .2s ease-in-out;
 	-o-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
 	border: none;
 }
 .thumbnail p{
-	color: #ffffff;
+	color: #777777;
+	margin-top: 7px;
 }
 .thumbnail>img, .thumbnail a>img{
-	border-radius: 10px;
+	border-radius: 4px;
 }
 .btn-info {
 	color: #ffffff;
@@ -206,7 +220,8 @@ h3{
 	width: 100%;
 	color: #ffffff;
 	font-size: 16px;
-	background-color: #292929;
+	/*background-color: #292929;*/
+	background-color: #B28738;
 	font-weight: bold;
 }
 .btn-block:hover {
@@ -256,16 +271,13 @@ ol.customerAssistance{
 .customerAssistance li{
 	list-style-type: none;
 }
-.certificationRow{
-	background-color: #ffffff;
+.bodyBlue{
+	background-color: #183659;
 	padding: 10px;
 	margin: 0px;
-	/*border-top: 1px solid black;*/
-	/*-moz-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
-	-webkit-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
-	box-shadow: 5px 5px 5px rgba(68,68,68,0.6);*/
+	border-top: 1px solid black;
 }
-.certificationRow img{
+.bodyBlue img{
 	margin: 0 auto;
 }
 blockquote {
@@ -575,6 +587,9 @@ color: #292929;
 	padding: 0px 9px 0px 9px;
 	color: #333;
 }
+.logoAFUSA img{
+	overflow: hidden;
+}
 
 /*----------------------------------Tabs------------------------------------*/
 .nav-tabs {
@@ -627,7 +642,7 @@ color: #292929;
     opacity:0.8;
 }
 .bubblePar{
-	background-color: #002a50;
+	background-color: #183659;
 	padding: 20px;
 	margin-bottom: 15px;
 	margin-top: 18px;
@@ -648,9 +663,6 @@ color: #292929;
 /*-----------------------------------Media Queries---------------------------------------*/
 
 @media (max-width: 767px) {
-	.contactNumbers{
-		display: none;
-	}
 	.navbar-inverse .navbar-nav>li>a:hover {
 		background-color: #ffffff;
 		color: black;
@@ -688,8 +700,8 @@ color: #292929;
 		box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
 	}
 	.navbar-collapse ul{
-		margin-left: 22px;
-		margin-right: 22px;
+		margin-left: 10px;
+		margin-right: 10px;
 	}
 	.panel-title>a {
 		color: #ffffff;
@@ -703,13 +715,16 @@ color: #292929;
 		padding: 10px 0px 10px 0px;
 	}
 	.footerSection{
-		background-image: url("../img/tweed.png");
 		padding: 10px 0px 10px 0px;
 		color: #ffffff;
 		border-top: 1px solid #ffffff;
 	}
 	.footerBox{
-		margin: 10px 0px 10px 0px;
+		margin: 10px;
+	}
+	.footerSection h4{
+		display: inline-block;
+		margin-left: 7px;
 	}
 	.customerserviceBox{
 		padding: 10px 15px 10px 15px;
@@ -730,5 +745,9 @@ color: #292929;
         table-layout: fixed;
         float:none;
     }
+	.navbar-nav>li>a {
+			padding-top: 10px; 
+			padding-bottom: 10px; 
+	}
 }
 
