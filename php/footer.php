@@ -5,11 +5,12 @@
                             <h4>Where to?</h4>
                             <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li class="active"><a href="#">Home</a></li>
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Products</a></li>
-                                        <li><a href="#">Customer Service</a></li>
-                                        <li><a href="#">Our Work</a></li>  
+                                        <li><a href="#">Home</a></li>
+                                        <li><a href="#">Your Needs</a></li>
+                                        <li><a href="#">Your Specs</a></li>
+                                        <li><a href="#">Services</a></li>
+                                        <li><a href="#">Why AFUSA</a></li>  
+                                        <li><a href="#">Resources</a></li> 
                                         <li><a href="#">Contact</a></li> 
                                     </ol> 
                             </div>
@@ -18,12 +19,14 @@
                             <h4>Your Needs</h4>
                             <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li class="active"><a href="#">Home</a></li>
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Products</a></li>
-                                        <li><a href="#">Customer Service</a></li>
-                                        <li><a href="#">Our Work</a></li>  
-                                        <li><a href="#">Contact</a></li> 
+                                        <li><a href="#">Corrosion Resistance</a></li>
+                                        <li><a href="#">Weather Resistance & UV</a></li>
+                                        <li><a href="#">Abrasion Resistance</a></li>
+                                        <li><a href="#">Electrical Resistance Coatings</a></li>
+                                        <li><a href="#">Anti-Microbial/CARC</a></li>
+                                        <li><a href="#">Aesthetical/Architectural</a></li>
+                                        <li><a href="#">Military & CARC</a></li>
+                                        <li><a href="#">Consumer Coatings</a></li>
                                     </ol> 
                             </div>
                          </div>
@@ -31,12 +34,11 @@
                             <h4>Resources</h4>
                                 <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li class="active"><a href="#">Home</a></li>
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Products</a></li>
-                                        <li><a href="#">Customer Service</a></li>
-                                        <li><a href="#">Our Work</a></li>  
-                                        <li><a href="#">Contact</a></li> 
+                                        <li><a href="#">FAQ’S</a></li>
+                                        <li><a href="#">Learning</a></li>
+                                        <li><a href="#">Videos</a></li>
+                                        <li><a href="#">Blog</a></li>
+                                        <li><a href="#">PR & News</a></li>
                                     </ol> 
                                 </div>
                          </div>
@@ -44,12 +46,11 @@
                             <h4>Contact Us</h4>
                                 <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li class="active"><a href="#">Home</a></li>
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Products</a></li>
-                                        <li><a href="#">Customer Service</a></li>
-                                        <li><a href="#">Our Work</a></li>  
-                                        <li><a href="#">Contact</a></li> 
+                                        <li><a href="#">Phone: 814.474.5200</a></li>
+                                        <li><a href="#">Fax: 814.474.5205</a></li>
+                                        <li><a href="#">Address: 7401 Kiler Drive, Fairview, PA 16415</a></li>
+                                        <li><a href="#">Sales: greg@afusa.net</a></li>
+                                        <li><a href="#">YouTube</a></li>
                                     </ol> 
                                 </div>
                          </div>
