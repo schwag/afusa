@@ -32,7 +32,7 @@
                                       <div class="thumbnail">
                                         <img src="img/corrosion_needs.png" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p><a href="http://localhost/afusa/corrosion-resistance.php" class="btn btn-block" role="button">CORROSION RESISTANCE</a></p>
+                                          <p><a href="http://localhost/afusa/corrosion-resistance.php" class="btn btn-block needsButton" role="button">CORROSION RESISTANCE</a></p>
                                         </div>
                                       </div>
                                     </div>
@@ -40,7 +40,7 @@
                                       <div class="thumbnail">
                                         <img src="img/architectural_needs.png" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p><a href="#" class="btn btn-block" role="button">ARCHITECTURAL</a></p>
+                                          <p><a href="#" class="btn btn-block needsButton" role="button">ARCHITECTURAL</a></p>
                                         </div>
                                       </div>
                                     </div>
@@ -48,7 +48,7 @@
                                       <div class="thumbnail">
                                         <img src="img/placeholder.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p><a href="#" class="btn btn-block" role="button">ABRASION RESISTANCE</a></p>
+                                          <p><a href="#" class="btn btn-block needsButton" role="button">ABRASION RESISTANCE</a></p>
                                         </div>
                                       </div>
                                     </div>
@@ -56,7 +56,7 @@
                                       <div class="thumbnail">
                                         <img src="img/electrical_needs.png" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p><a href="#" class="btn btn-block" role="button">ELECTRICAL RESISTANCE COATINGS</a></p>
+                                          <p><a href="#" class="btn btn-block needsButton" role="button">ELECTRICAL RESISTANCE COATINGS</a></p>
                                         </div>
                                       </div>
                                     </div>
@@ -66,7 +66,7 @@
                                       <div class="thumbnail">
                                         <img src="img/placeholder.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p><a href="#" class="btn btn-block" role="button">MEDICAL, LAB, & HIGH TRAFFIC</a></p>
+                                          <p><a href="#" class="btn btn-block needsButton" role="button">MEDICAL, LAB, & HIGH TRAFFIC</a></p>
                                         </div>
                                       </div>
                                     </div>
@@ -74,7 +74,7 @@
                                       <div class="thumbnail">
                                         <img src="img/placeholder.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p><a href="#" class="btn btn-block" role="button">AESTHETIC</a></p>
+                                          <p><a href="#" class="btn btn-block needsButton" role="button">AESTHETIC</a></p>
                                         </div>
                                       </div>
                                     </div>
@@ -82,7 +82,7 @@
                                       <div class="thumbnail">
                                         <img src="img/placeholder.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p><a href="#" class="btn btn-block" role="button">MILITARY & CARC</a></p>
+                                          <p><a href="#" class="btn btn-block needsButton" role="button">MILITARY & CARC</a></p>
                                         </div>
                                       </div>
                                     </div>
@@ -90,7 +90,7 @@
                                       <div class="thumbnail">
                                         <img src="img/consumer_needs.png" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p><a href="#" class="btn btn-block" role="button">CONSUMER COATINGS</a></p>
+                                          <p><a href="#" class="btn btn-block needsButton" role="button">CONSUMER COATINGS</a></p>
                                         </div>
                                       </div>
                                     </div>

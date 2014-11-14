@@ -64,7 +64,6 @@ h3{
 	float: right !important;
 }
 .navbar{
-	/*background-color: #336666;*/
 	background-color: #292929;
 	margin-top: 100px;
 }
@@ -103,9 +102,8 @@ h3{
 	color: #ffffff;
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
-	color: #fff;
-	background-color: #336666;
-	border-bottom: 2px solid #ffffff;
+	color: #292929;
+	background-color: #ffffff;
 }
 .navbar-toggle {
 	position: relative;
@@ -189,11 +187,16 @@ h3{
 	background-color: #fff;
 	border: none;
 }
-.headerText{
-	color: #777777;
-	font-weight: bold;
-	margin-top: 28px;
+.headerText {
+	color: #FFFFFF;
+	/* margin-top: 28px; */
 	font-size: 16px;
+	background-color: #183659;
+	border-radius: 0px 0px 4px 4px;
+	text-align: center;
+	padding: 4px;
+	/*border: 1px solid #243E67;*/
+	box-shadow: 0px 6px 20px #888888;
 }
 .glyphicon.glyphicon-search{
 	float: right;
@@ -297,6 +300,9 @@ h3{
 	/*background-color: #292929;*/
 	background-color: #C08313;;
 	font-weight: bold;
+}
+.btn-block.needsButton{
+	font-size: 13px;
 }
 .btn-block:hover {
 	color: #ffffff;
@@ -683,7 +689,7 @@ color: #292929;
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
 	color: #ffffff;
 	cursor: default;
-	background-color: #292929;
+	background-color: #ffffff;
 }
 /*----------------------------------Photo Hover----------------------*/
 .galleryimageBackground{
@@ -722,8 +728,7 @@ color: #292929;
 .bubblePar p{
 	color: #ffffff;
 	text-align: center;
-	font-size: 17px;
-	font-weight: bold;
+	font-size: 16px;
 	margin: 0px;
 }
 .producthomeTitle img{

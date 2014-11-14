@@ -6,7 +6,7 @@
                                 <a href="#"><img src="img/afusa_logo_250x250.png" alt"" width="90px" height="90px" class="img-responsive"></a>
                             </div>
                             <div class="col-lg-6 col-sm-6 headerAddress">
-                                <p class="headerText">Advanced Finishing USA - 7401 Kiler Dr. Fairview, PA 16415</br>
+                                <p class="headerText"><b>Advanced Finishing USA</b> - 7401 Kiler Dr. Fairview, PA 16415</br>
                                 Call us today for a fast, no obligation quote.</p>
                             </div>
                             <div class="col-lg-4 col-sm-4 headercontactInfo">
@@ -34,7 +34,7 @@
                         </div>
                         <div class="collapse navbar-collapse" id="collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="http://localhost/afusa/">Home</a></li>
+                                <li class="active"><a href="http://localhost/afusa/">Home</a></li>
                                 <li><a href="http://localhost/afusa/your-needs.php">Your Needs</a></li>
                                 <li><a href="#">Your Specs</a></li>
                                 <li><a href="#">Services</a></li>
