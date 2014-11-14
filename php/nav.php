@@ -34,8 +34,8 @@
                         </div>
                         <div class="collapse navbar-collapse" id="collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Your Needs</a></li>
+                                <li><a href="http://localhost/afusa/">Home</a></li>
+                                <li><a href="http://localhost/afusa/your-needs.php">Your Needs</a></li>
                                 <li><a href="#">Your Specs</a></li>
                                 <li><a href="#">Services</a></li>
                                 <li><a href="#">Why AFUSA</a></li>

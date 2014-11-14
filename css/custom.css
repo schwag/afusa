@@ -14,6 +14,14 @@ body{
 	font-size: 28px;
 	text-shadow: 1px 1px 1px #4C4C4C;
 }
+.mainbodyHeading{
+	color: #515151;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 10px;
+	font-style: italic;
+	font-size: 28px;
+}
 h2{
 	color: #336666;
 	border-bottom: 1px solid #336666;
@@ -97,11 +105,16 @@ h3{
 .glyphicon-home,.glyphicon-book,.glyphicon-tags,.glyphicon-user,.glyphicon-th-large,.glyphicon-earphone{
 	padding-right: 5px;
 }
-.blueBackground{
+.homeBackground{
 	/*background-color: #0055a3;*/
 	background-image: url("../img/building_background.png");
 	padding: 48px;
 	margin-top: 47px;
+}
+.yourneedsBackground{
+	background-image: url("../img/your_needs_background.png");
+	padding: 48px;
+	margin-top: 47px;	
 }
 .logoBackground{
 	background-color: #ffffff;
@@ -133,6 +146,7 @@ h3{
 	color: #777777;
 	font-weight: bold;
 	margin-top: 28px;
+	font-size: 16px;
 }
 .glyphicon.glyphicon-search{
 	float: right;
@@ -202,6 +216,7 @@ h3{
 	display: block;
 	padding: 6px;
 	margin-bottom: 10px;
+	margin-top: 10px;
 	line-height: 1.42857143;
 	background-color: #ffffff;
 	-webkit-transition: all .2s ease-in-out;
@@ -212,6 +227,7 @@ h3{
 .thumbnail p{
 	color: #777777;
 	margin-top: 7px;
+	margin-bottom: 2px;
 }
 .thumbnail>img, .thumbnail a>img{
 	border-radius: 4px;
@@ -298,13 +314,6 @@ blockquote {
 	margin: 0 0 20px;
 	font-size: 17.5px;
 	border-left: 5px solid #336666;
-}
-.sherrieBox{
-	/*background-color: #ffffff;
-	padding: 10px 20px 20px 30px;*/
-	margin: 10px 0px 0px 0px;
-	border-radius: 10px;
-	/*border: 2px solid #C59238;*/
 }
 .contactCreditbox{
 	/*background-color: #303432;
@@ -597,7 +606,7 @@ color: #292929;
 	border-radius: 5px;
 }*/
 .thumbnail .caption {
-	padding: 0px 9px 0px 9px;
+	padding: 0px;
 	color: #333;
 }
 .logoAFUSA img{
@@ -680,7 +689,10 @@ color: #292929;
 	.logoBackground img{
 		margin: 6px 0px 6px 0px;
 	}
-	.blueBackground{
+	.homeBackground{
+		padding: 10px;
+	}
+	.yourneedsBackground{
 		padding: 10px;
 	}
 	.headerAddress{

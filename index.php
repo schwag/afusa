@@ -5,7 +5,7 @@
 <?php include "php/nav.php";?>
 
 
-    <section class="blueBackground">
+    <section class="homeBackground">
                 <div class="container">
                      <div class="row">
                         <div class="introSection">
@@ -24,16 +24,16 @@
     <section class="bodyBlue">
                 <div class="container">
                      <div class="row">
-                        <div class="sherrieSection">
+                        <div>
                             <div class="col-md-12">
-                                <div class="sherrieBox">
+                                <div>
                                   <div class="row">
                                     <div class="col-sm-4 col-md-4">
                                       <div class="thumbnail">
                                         <img src="img/your_needs_tile.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit. Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit.</p>
-                                          <p><a href="#" class="btn btn-block" role="button">YOUR NEEDS</a></p>
+                                          <p>Whether your job requires a functional or aesthetic finish, Advanced Finishing USA specializes in providing durable coatings that add value to your product.</p>
+                                          <p><a href="http://localhost/afusa/your-needs.php" class="btn btn-block" role="button">YOUR NEEDS</a></p>
                                         </div>
                                       </div>
                                     </div>
@@ -41,7 +41,7 @@
                                       <div class="thumbnail">
                                         <img src="img/your_specs_tile.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit. Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit.</p>
+                                          <p>Whether your job requires a functional or aesthetic finish, Advanced Finishing USA specializes in providing durable coatings that add value to your product.</p>
                                           <p><a href="#" class="btn btn-block" role="button">YOUR SPECS</a></p>
                                         </div>
                                       </div>
@@ -50,7 +50,7 @@
                                       <div class="thumbnail">
                                         <img src="img/your_services_tile.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit. Lorem ipsum dolor sit amet, consectetur adipcz ciscing elit. Lorem ipsum dolor sit.</p>
+                                          <p>Whether your job requires a functional or aesthetic finish, Advanced Finishing USA specializes in providing durable coatings that add value to your product.</p>
                                           <p><a href="#" class="btn btn-block" role="button">SERVICES</a></p>
                                         </div>
                                       </div>
