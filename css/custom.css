@@ -241,20 +241,21 @@ h3{
 	/*border: 1px solid #303432;*/
 }
 .footerBottom{
-	background-color: #303432;
+	background-color: #101010;
 	padding-top: 10px;
 	color: #ffffff;
 	border-top: 1px solid #ffffff;
 }
 .footerSection{
-	background-color: #5e736e;
+	/*background-color: #5e736e;*/
+	background-color: #183659;
 	padding-top: 18px;
 	color: #ffffff;
 	border-top: 1px solid #ffffff;
 }
 .footerSection h4{
 	padding: 6px;
-	background-color: #292929;
+	background-color: #1B1B1B;
 	display: inline;
 	border-radius: 5px;
 	margin-top: 10px;
@@ -283,7 +284,8 @@ ol.customerAssistance{
 	list-style-type: none;
 }
 .bodyBlue{
-	background-color: #183659;
+	background-image: url("../img/mooning.png");
+	/*background-color: #5e736e;*/
 	padding: 10px;
 	margin: 0px;
 	border-top: 1px solid black;
