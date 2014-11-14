@@ -24,6 +24,7 @@
                 <div class="container">
                      <div class="row">
                         <div>
+
                             <!--beginning of left body content-->
                             <div class="col-md-8">
                                 <div class="needsLeft">
@@ -41,68 +42,74 @@
                                   <p class="needsPar">Our commitment to quality products and processes provides assurance that your finished product will adhere to the most stringent standards.  We are ISO 9001 compliant and PACCAR Approved. The coatings we use are FDA & DOT approved and meet most AAMA, Military and Automotive specifications. We are a 3M, Cardinal, and Sherwin Williams certified vendor. We regularly participate in continuing educational opportunities that keep us at the leading edge of application techniques and research and development.  </p>
                                 </div>
                             </div>
+
                             <!--beginning of right sidebar content-->
                             <div class="col-md-4">
+                              <h1 class="needssidebarHeading">PHOTO GALLERY</h1>
                                 <div class="needsSidebar">
-<!-- Large modal -->
-<button type="button" class="btn btn-block" data-toggle="modal" data-target=".bs-example-modal-lg">PHOTO GALLERY</button>
+                                  <!-- Large modal -->
+                                  <img src="img/corrosion_needs.png" class="img-responsive" data-toggle="modal" data-target=".bs-example-modal-lg">
+                                  <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                      <div class="modal-content">
+                                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                                          <!-- Indicators -->
+                                          <ol class="carousel-indicators">
+                                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                                            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                                            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                                          </ol>
 
-<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
+                                          <!-- Wrapper for slides -->
+                                          <div class="carousel-inner" role="listbox">
+                                            <div class="item active">
+                                              <img src="img/mixer.jpg" alt="">
+                                              <div class="carousel-caption">
+                                              </div>
+                                            </div>
+                                            <div class="item">
+                                              <img src="img/inline_mixer.jpg" alt="">
+                                              <div class="carousel-caption">
+                                              </div>
+                                            </div>
+                                            <div class="item">
+                                              <img src="img/pump_housing.jpg" alt="">
+                                              <div class="carousel-caption">
+                                              </div>
+                                            </div>
+                                            <div class="item">
+                                              <img src="img/water_valve.jpg" alt="">
+                                              <div class="carousel-caption">
+                                              </div>
+                                            </div>
+                                          </div>
 
-
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-  </ol>
-
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="img/mixer.jpg" alt="">
-      <div class="carousel-caption">
-      </div>
-    </div>
-    <div class="item">
-      <img src="img/inline_mixer.jpg" alt="">
-      <div class="carousel-caption">
-      </div>
-    </div>
-    <div class="item">
-      <img src="img/pump_housing.jpg" alt="">
-      <div class="carousel-caption">
-      </div>
-    </div>
-    <div class="item">
-      <img src="img/water_valve.jpg" alt="">
-      <div class="carousel-caption">
-      </div>
-    </div>
-  </div>
-
-  <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-
-
-    </div>
-  </div>
-</div>
+                                          <!-- Controls -->
+                                          <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                                            <span class="sr-only">Previous</span>
+                                          </a>
+                                          <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                                            <span class="sr-only">Next</span>
+                                          </a>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div><!--END of photo gallery-->
+                              <h1 class="needssidebarHeading">SHORT VID</h1>
+                              <div class="needsSidebar">
+                                <iframe width="100%" height="218" src="//www.youtube.com/embed/t8HJA4OXuHg?list=UUauWBtjoD8Sbkm27cs1b1BA" frameborder="0" allowfullscreen></iframe>
+                              </div> 
+                              <h1 class="needssidebarHeading">FAQ'S</h1>
+                              <div class="needsSidebar">
+                                <div class="productsAccordion">
+                                    <?php include "php/corrosion-resistance-accordion.php";?>
                                 </div>
-                            </div>
+                              </div>
+                            </div> 
                         </div>
                     </div>
                 </div>

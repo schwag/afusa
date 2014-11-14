@@ -30,6 +30,15 @@ body{
 	font-size: 21px;
 	padding-left: 10px;
 }
+.needssidebarHeading{
+	color: #515151;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 10px;
+	font-style: italic;
+	font-size: 21px;
+	padding-left: 10px;	
+}
 h2{
 	color: #336666;
 	border-bottom: 1px solid #336666;
@@ -417,8 +426,6 @@ blockquote {
 }
 .productsAccordion{
 	background-color: #ffffff;
-	padding: 10px 20px 20px 20px;
-	margin: 10px 0px 10px 0px;	
 	border-radius: 10px;
 	/*border: 2px solid #C59238;*/
 }
@@ -591,14 +598,14 @@ color: #292929;
 }
 .panel-default>.panel-heading {
 	color: #ffffff;
-	background-color: #292929;
-	/*border: 1px solid #101010;*/
+	background-color: #C08313;
 }
 .panel-title>a {
 	color: #ffffff;
 	margin-left: 10px;
 	text-decoration: none;
-	padding-right: 120px;
+	font-size: 14px;
+	font-weight: bold;
 }
 .panel-heading a:after {
     font-family: 'Glyphicons Halflings';
@@ -608,6 +615,9 @@ color: #292929;
 }
 .panel-heading a.collapsed:after {
     content: "\e080";
+}
+.panel-group {
+	margin-bottom: 0px;
 }
 .jumboMap{
 	height: 315px;
