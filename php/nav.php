@@ -36,7 +36,7 @@
                             <ul class="nav navbar-nav">
                                 <li class="active"><a href="http://localhost/afusa/">Home</a></li>
                                 <li><a href="http://localhost/afusa/your-needs.php">Your Needs</a></li>
-                                <li><a href="#">Your Specs</a></li>
+                                <li><a href="http://localhost/afusa/your-specs.php">Your Specs</a></li>
                                 <li><a href="#">Services</a></li>
                                 <li><a href="#">Why AFUSA</a></li>
                                 <li><a href="#">Resources</a></li>

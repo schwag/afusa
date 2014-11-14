@@ -42,7 +42,7 @@
                                         <img src="img/your_specs_tile.jpg" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
                                           <p>Whether your job requires a functional or aesthetic finish, Advanced Finishing USA specializes in providing durable coatings that add value to your product.</p>
-                                          <p><a href="#" class="btn btn-block" role="button">YOUR SPECS</a></p>
+                                          <p><a href="http://localhost/afusa/your-specs.php" class="btn btn-block" role="button">YOUR SPECS</a></p>
                                         </div>
                                       </div>
                                     </div>

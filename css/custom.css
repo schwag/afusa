@@ -131,6 +131,11 @@ h3{
 	padding: 48px;
 	margin-top: 47px;	
 }
+.yourspecsBackground{
+	background-image: url("../img/specs_background.png");
+	padding: 48px;
+	margin-top: 47px;	
+}
 .corrosionBackground{
 	background-image: url("../img/corrosion_needs_background.png");
 	padding: 48px;
@@ -746,6 +751,9 @@ color: #292929;
 		padding: 10px;
 	}
 	.yourneedsBackground{
+		padding: 10px;
+	}
+	.yourspecsBackground{
 		padding: 10px;
 	}
 	.corrosionBackground{
