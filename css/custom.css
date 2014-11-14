@@ -22,6 +22,14 @@ body{
 	font-style: italic;
 	font-size: 28px;
 }
+.needsbodyHeading{
+	color: #515151;
+	font-weight: bold;
+	margin-top: 10px;
+	font-style: italic;
+	font-size: 21px;
+	padding-left: 10px;
+}
 h2{
 	color: #336666;
 	border-bottom: 1px solid #336666;
@@ -115,6 +123,29 @@ h3{
 	background-image: url("../img/your_needs_background.png");
 	padding: 48px;
 	margin-top: 47px;	
+}
+.corrosionBackground{
+	background-image: url("../img/corrosion_needs_background.png");
+	padding: 48px;
+	margin-top: 47px;
+}
+.needsLeft{
+	display: block;
+	padding: 6px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	line-height: 1.42857143;
+	background-color: #ffffff;
+	border: none;
+	border-radius: 4px;
+}
+.needsPar{
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #565656;
+}
+.needsSidebar{
+
 }
 .logoBackground{
 	background-color: #ffffff;
@@ -225,7 +256,7 @@ h3{
 	border: none;
 }
 .thumbnail p{
-	color: #777777;
+	color: #565656;
 	margin-top: 7px;
 	margin-bottom: 2px;
 }
@@ -695,6 +726,9 @@ color: #292929;
 	.yourneedsBackground{
 		padding: 10px;
 	}
+	.corrosionBackground{
+		padding: 10px;	
+	}	
 	.headerAddress{
 		display: none;
 	}

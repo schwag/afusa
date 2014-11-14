@@ -32,7 +32,7 @@
                                       <div class="thumbnail">
                                         <img src="img/corrosion_needs.png" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
-                                          <p><a href="#" class="btn btn-block" role="button">CORROSION RESISTANCE</a></p>
+                                          <p><a href="http://localhost/afusa/corrosion-resistance.php" class="btn btn-block" role="button">CORROSION RESISTANCE</a></p>
                                         </div>
                                       </div>
                                     </div>
