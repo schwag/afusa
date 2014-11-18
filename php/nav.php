@@ -50,7 +50,7 @@
                                 </li>
                                 <li><a href="http://localhost/afusa/your-specs.php">Your Specs</a></li>
                                 <li><a href="http://localhost/afusa/services.php">Services</a></li>
-                                <li><a href="#">Why AFUSA</a></li>
+                                <li><a href="http://localhost/afusa/why-afusa.php">Why AFUSA</a></li>
                                 <li><a href="#">Resources</a></li>
                                 <li><a href="#">Contact Us</a></li> 
                             </ul> 

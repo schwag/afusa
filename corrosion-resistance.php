@@ -51,7 +51,7 @@
                                   <img src="img/corrosion_needs.png" class="img-responsive" data-toggle="modal" data-target=".bs-example-modal-lg">
                                   <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-lg">
-                                      <div class="modal-content">
+                                      <div class="photoGallery">
                                         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                                           <!-- Indicators -->
                                           <ol class="carousel-indicators">
