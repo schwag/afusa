@@ -99,7 +99,7 @@
                                     </div>
                                   </div>
                                 </div><!--END of photo gallery-->
-                              <h1 class="needssidebarHeading">SHORT VID</h1>
+                              <h1 class="needssidebarHeading">SHORT VIDEO</h1>
                               <div class="needsSidebar">
                                 <iframe width="100%" height="218" src="//www.youtube.com/embed/t8HJA4OXuHg?list=UUauWBtjoD8Sbkm27cs1b1BA" frameborder="0" allowfullscreen></iframe>
                               </div> 
