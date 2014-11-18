@@ -6,7 +6,7 @@
                             <div class="footerBox">
                                     <ol class="footerMenu">
                                         <li><a href="#">Home</a></li>
-                                        <li><a href="#">Your Needs</a></li>
+                                        <li><a href="http://localhost/afusa/your-needs.php">Your Needs</a></li>
                                         <li><a href="#">Your Specs</a></li>
                                         <li><a href="#">Services</a></li>
                                         <li><a href="#">Why AFUSA</a></li>  

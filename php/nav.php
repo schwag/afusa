@@ -35,7 +35,19 @@
                         <div class="collapse navbar-collapse" id="collapse">
                             <ul class="nav navbar-nav">
                                 <li class="active"><a href="http://localhost/afusa/">Home</a></li>
-                                <li><a href="http://localhost/afusa/your-needs.php">Your Needs</a></li>
+                                <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Your Needs</span></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="http://localhost/afusa/corrosion-resistance.php">Corrosion Resistance</a></li>
+                                        <li><a href="#">Weather Resistance & UV</a></li>
+                                        <li><a href="#">Abrasion Resistance</a></li>
+                                        <li><a href="#">Electrical Resistance Coatings</a></li>
+                                        <li><a href="#">Anti-Microbial/CARC</a></li>
+                                        <li><a href="#">Aesthetical/Architectural</a></li>
+                                        <li><a href="#">Military & CARC</a></li>
+                                        <li><a href="#">Consumer Coatings</a></li>
+                                    </ul>
+                                </li>
                                 <li><a href="http://localhost/afusa/your-specs.php">Your Specs</a></li>
                                 <li><a href="http://localhost/afusa/services.php">Services</a></li>
                                 <li><a href="#">Why AFUSA</a></li>
