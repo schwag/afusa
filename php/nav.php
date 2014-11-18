@@ -36,7 +36,7 @@
                             <ul class="nav navbar-nav">
                                 <li class="active"><a href="http://localhost/afusa/">Home</a></li>
                                 <li class="dropdown">
-                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Your Needs</span></a>
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#"> Your Needs <span class="caret"></span></a>
                                     <ul class="dropdown-menu" role="menu">
                                         <li><a href="http://localhost/afusa/corrosion-resistance.php">Corrosion Resistance</a></li>
                                         <li><a href="#">Weather Resistance & UV</a></li>
@@ -51,8 +51,15 @@
                                 <li><a href="http://localhost/afusa/your-specs.php">Your Specs</a></li>
                                 <li><a href="http://localhost/afusa/services.php">Services</a></li>
                                 <li><a href="http://localhost/afusa/why-afusa.php">Why AFUSA</a></li>
-                                <li><a href="#">Resources</a></li>
-                                <li><a href="#">Contact Us</a></li> 
+                                <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#"> Resources <span class="caret"></span></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="#">FAQ's</a></li>
+                                        <li><a href="#">Learning</a></li>
+                                        <li><a href="https://www.youtube.com/channel/UCauWBtjoD8Sbkm27cs1b1BA/videos" target="_blank">Videos</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="http://localhost/afusa/contact-us.php">Contact Us</a></li> 
                             </ul> 
                         </div>
                      </nav> 

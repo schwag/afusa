@@ -66,6 +66,7 @@
                                             <div class="item active">
                                               <img src="img/mixer.jpg" alt="">
                                               <div class="carousel-caption">
+                                                <!--<h1>38 MIXER</h1>-->
                                               </div>
                                             </div>
                                             <div class="item">
@@ -109,6 +110,11 @@
                                     <?php include "php/corrosion-resistance-accordion.php";?>
                                 </div>
                               </div>
+
+                                    <div class="customerserviceButton">
+                                        <p class="customerButton"><a href="http://localhost/afusa/your-needs.php" class="btn btn-block backtoNeeds"> BACK TO YOUR NEEDS <span class="serviceButton glyphicon glyphicon-chevron-right"></span></a></p>                                       
+                                    </div>
+                         
                             </div> 
                         </div>
                     </div>

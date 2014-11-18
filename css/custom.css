@@ -34,6 +34,18 @@ body{
 	border-radius: 4px;
 	padding: 1px 5px 1px 5px;
 }
+.contactSidebarHeading{
+	color: #FFFFFF;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-style: italic;
+	font-size: 20px;
+	background-color: rgb(69, 99, 128);
+	display: inline;
+	border-radius: 4px;
+	padding: 1px 5px 1px 5px;	
+}
 .needssidebarHeading{
 	color: #515151;
 	font-weight: bold;
@@ -97,7 +109,7 @@ h3{
 	padding: 10px;
 }
 .navbar-inverse .navbar-toggle:hover {
-	background-color: #0055a3;
+	background-color: #6B6B6B;
 	color: #ffffff;
 }
 .navbar-inverse .navbar-toggle .glyphicon {
@@ -146,6 +158,11 @@ h3{
 	padding: 48px;
 	margin-top: 47px;
 }
+.contactBackground{
+	background-image: url("../img/contact_background.png");
+	padding: 48px;
+	margin-top: 47px;	
+}
 .corrosionBackground{
 	background-image: url("../img/corrosion_needs_background.png");
 	padding: 48px;
@@ -162,6 +179,27 @@ h3{
 	border-radius: 4px;
 	border-left: 3px solid #ABABAB;
 	/*border-style: outset;*/
+}
+.contactLeft{
+	display: block;
+	padding: 14px 10px 10px 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	line-height: 1.42857143;
+	background-color: #ffffff;
+	border: none;
+	border-radius: 4px;
+	border-left: 3px solid #ABABAB;	
+}
+.contactRight{
+	display: block;
+	padding: 14px 6px 6px 6px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	line-height: 1.42857143;
+	background-color: #ffffff;
+	border: none;
+	border-radius: 4px;
 }
 .needsPar{
 	padding-left: 10px;
@@ -348,7 +386,7 @@ h3{
 	/*border: 1px solid #303432;*/
 }
 .footerBottom{
-	background-color: #101010;
+	background-color: #292929;
 	padding-top: 10px;
 	color: #ffffff;
 	border-top: 1px solid #ffffff;
@@ -362,7 +400,7 @@ h3{
 }
 .footerSection h4{
 	padding: 6px;
-	background-color: #1B1B1B;
+	background-color: #676767;
 	display: inline;
 	border-radius: 5px;
 	margin-top: 10px;
@@ -593,8 +631,10 @@ blockquote {
 	color: #ffffff;
 	float: right;
 }
-.customerserviceButton{
-	margin: 10px 18px 10px 18px;
+.customerButton .btn-block {
+	color: #ffffff;
+	background-color: #292929;
+	font-size: 13px;
 }
 .serviceButton.glyphicon-chevron-right{
 	position: relative;
@@ -817,6 +857,9 @@ color: #292929;
 	.servicesBackground{
 		padding: 10px;
 	}
+	.contactBackground{
+		padding: 10px;
+	}
 	.corrosionBackground{
 		padding: 10px;	
 	}	
@@ -902,6 +945,24 @@ color: #292929;
 	.jumboMap{
 		height: 215px;
 	}
+	.needsbodyHeading{
+		font-size: 14px;
+		display: inline-block;
+		margin-right: 10px;
+	}
+	.contactSidebarHeading{
+		font-size: 15px;
+	}
+	.mainHeading{
+		font-size: 20px;
+	}
+	.btn-block{
+		font-size: 14px;
+	}
+	.needssidebarHeading{
+		font-size: 18px;
+	}
+
 }
 @media (min-width: 768px){
     .navbar-nav{
