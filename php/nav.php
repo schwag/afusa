@@ -39,11 +39,11 @@
                                     <a class="dropdown-toggle" data-toggle="dropdown" href="#"> Your Needs <span class="caret"></span></a>
                                     <ul class="dropdown-menu" role="menu">
                                         <li><a href="http://localhost/afusa/corrosion-resistance.php">Corrosion Resistance</a></li>
-                                        <li><a href="#">Weather Resistance & UV</a></li>
+                                        <li><a href="http://localhost/afusa/architectural.php">Architectural</a></li>
                                         <li><a href="#">Abrasion Resistance</a></li>
                                         <li><a href="#">Electrical Resistance Coatings</a></li>
-                                        <li><a href="#">Anti-Microbial/CARC</a></li>
-                                        <li><a href="#">Aesthetical/Architectural</a></li>
+                                        <li><a href="#">Medical, Lab & High Traffic </a></li>
+                                        <li><a href="#">Aesthetic</a></li>
                                         <li><a href="#">Military & CARC</a></li>
                                         <li><a href="#">Consumer Coatings</a></li>
                                     </ul>

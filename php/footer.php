@@ -5,9 +5,9 @@
                             <h4>Where to?</h4>
                             <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li><a href="#">Home</a></li>
+                                        <li><a href="http://localhost/afusa/">Home</a></li>
                                         <li><a href="http://localhost/afusa/your-needs.php">Your Needs</a></li>
-                                        <li><a href="#">Your Specs</a></li>
+                                        <li><a href="http://localhost/afusa/architectural.php">Your Specs</a></li>
                                         <li><a href="#">Services</a></li>
                                         <li><a href="#">Why AFUSA</a></li>  
                                         <li><a href="#">Resources</a></li> 
@@ -19,12 +19,12 @@
                             <h4>Your Needs</h4>
                             <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li><a href="#">Corrosion Resistance</a></li>
-                                        <li><a href="#">Weather Resistance & UV</a></li>
+                                        <li><a href="http://localhost/afusa/corrosion-resistance.php">Corrosion Resistance</a></li>
+                                        <li><a href="#">Architectural</a></li>
                                         <li><a href="#">Abrasion Resistance</a></li>
                                         <li><a href="#">Electrical Resistance Coatings</a></li>
-                                        <li><a href="#">Anti-Microbial/CARC</a></li>
-                                        <li><a href="#">Aesthetical/Architectural</a></li>
+                                        <li><a href="#">Medical, Lab & High Traffic </a></li>
+                                        <li><a href="#">Aesthetic</a></li>
                                         <li><a href="#">Military & CARC</a></li>
                                         <li><a href="#">Consumer Coatings</a></li>
                                     </ol> 
