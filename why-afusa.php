@@ -10,7 +10,7 @@
                      <div class="row">
                         <div class="introSection">
                             <div class="col-md-12">
-                               <h1 class="mainHeading">Why Advanced Finishing USA?</h1>
+                               <h1 class="mainHeading">WHY ADVANCED FINISHING USA?</h1>
                                <div class="bubblePar">
                                 <p>Powder coating, Dye Sublimation coatings and wet painting are the preferred choice for quality-driven companies.</br>
                                  The finishing experts at Advanced Finishing USA make it easy and affordable. </p>

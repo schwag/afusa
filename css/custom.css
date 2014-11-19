@@ -205,6 +205,18 @@ h3{
 	border-left: 3px solid #ABABAB;
 	/*border-style: outset;*/
 }
+.faqBackground{
+	display: block;
+	padding: 6px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	line-height: 1.42857143;
+	background-color: #ffffff;
+	border: none;
+	border-radius: 4px;
+	border-left: 3px solid #ABABAB;
+	/*border-style: outset;*/	
+}
 .contactLeft{
 	display: block;
 	padding: 14px 10px 10px 10px;
