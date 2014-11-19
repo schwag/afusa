@@ -20,13 +20,13 @@
                             <div class="footerBox">
                                     <ol class="footerMenu">
                                         <li><a href="http://localhost/afusa/corrosion-resistance.php">Corrosion Resistance</a></li>
-                                        <li><a href="#">Architectural</a></li>
-                                        <li><a href="#">Abrasion Resistance</a></li>
-                                        <li><a href="#">Electrical Resistance Coatings</a></li>
-                                        <li><a href="#">Medical, Lab & High Traffic </a></li>
-                                        <li><a href="#">Aesthetic</a></li>
-                                        <li><a href="#">Military & CARC</a></li>
-                                        <li><a href="#">Consumer Coatings</a></li>
+                                        <li><a href="http://localhost/afusa/architectural.php">Architectural</a></li>
+                                        <li><a href="http://localhost/afusa/abrasion-resistance.php">Abrasion Resistance</a></li>
+                                        <li><a href="http://localhost/afusa/electrical-resistance-coatings.php">Electrical Resistance Coatings</a></li>
+                                        <li><a href="http://localhost/afusa/medical-lab-and-high-traffic.php">Medical, Lab & High Traffic </a></li>
+                                        <li><a href="http://localhost/afusa/aesthetic.php">Aesthetic</a></li>
+                                        <li><a href="http://localhost/afusa/military-and-carc.php">Military & CARC</a></li>
+                                        <li><a href="http://localhost/afusa/consumer-coatings.php">Consumer Coatings</a></li>
                                     </ol> 
                             </div>
                          </div>
