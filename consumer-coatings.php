@@ -10,7 +10,7 @@
                      <div class="row">
                         <div class="introSection">
                             <div class="col-md-12">
-                               <h1 class="mainHeading">NAME</h1>
+                               <h1 class="mainHeading">CONSUMER COATINGS</h1>
                                <div class="bubblePar">
                                 <p>Test</p>
                                </div>

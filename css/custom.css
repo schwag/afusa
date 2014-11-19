@@ -193,6 +193,11 @@ h3{
 	padding: 48px;
 	margin-top: 47px;
 }
+.architecturalBackground{
+	background-image: url("../img/architectural_background.png");
+	padding: 48px;
+	margin-top: 47px;
+}
 .needsLeft{
 	display: block;
 	padding: 14px 6px 6px 6px;
@@ -904,6 +909,9 @@ color: #292929;
 	.corrosionBackground{
 		padding: 10px;	
 	}	
+	.architecturalBackground{
+		padding: 10px;	
+	}
 	.headerAddress{
 		display: none;
 	}

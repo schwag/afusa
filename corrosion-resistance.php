@@ -67,13 +67,13 @@
                                           <!-- Wrapper for slides -->
                                           <div class="carousel-inner" role="listbox">
                                             <div class="item active">
-                                              <img src="img/mixer.jpg" alt="">
+                                              <img src="img/inline_mixer.jpg" alt="">
                                               <div class="carousel-caption">
                                                 <!--<h1>38 MIXER</h1>-->
                                               </div>
                                             </div>
                                             <div class="item">
-                                              <img src="img/inline_mixer.jpg" alt="">
+                                              <img src="img/mixer.jpg" alt="">
                                               <div class="carousel-caption">
                                               </div>
                                             </div>
