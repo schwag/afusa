@@ -35,16 +35,17 @@ body{
 	padding: 1px 5px 1px 5px;
 }
 .contactSidebarHeading{
-	color: #FFFFFF;
+	color: #515151;
 	font-weight: bold;
 	margin-top: 10px;
 	margin-left: 10px;
 	font-style: italic;
 	font-size: 20px;
-	background-color: rgb(69, 99, 128);
+	/* background-color: rgb(69, 99, 128); */
 	display: inline;
 	border-radius: 4px;
-	padding: 1px 5px 1px 5px;	
+	/*padding: 1px 5px 1px 5px;*/
+	text-decoration: underline;	
 }
 .needssidebarHeading{
 	color: #515151;
