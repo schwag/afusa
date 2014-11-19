@@ -32,35 +32,31 @@
                                     <form>
 
                                         <div class="form-group">
-                                            <label for="textExample">Placeholder</label>
+                                            <label for="textExample">DATE</label>
                                             <input type="text" class="form-control" id="textExample" placeholder="Text">
                                         </div>
                                         <div class="form-group">
-                                            <label for="textExample">Placeholder</label>
+                                            <label for="textExample">PROJECT DESCRIPTION</label>
                                             <input type="text" class="form-control" id="textExample" placeholder="Text">
                                         </div>
                                         <div class="form-group">
-                                            <label for="textExample">Placeholder</label>
+                                            <label for="textExample">COATING REQUIREMENTS</label>
                                             <input type="text" class="form-control" id="textExample" placeholder="Text">
                                         </div>
                                         <div class="form-group">
-                                            <label for="textExample">Placeholder</label>
+                                            <label for="textExample">DESCRIBE YOUR PROJECT</label>
                                             <input type="text" class="form-control" id="textExample" placeholder="Text">
                                         </div>
                                         <div class="form-group">
-                                            <label for="textExample">Placeholder</label>
+                                            <label for="textExample">HOW CAN WE CONTACT YOU?</label>
                                             <input type="text" class="form-control" id="textExample" placeholder="Text">
                                         </div>
                                         <div class="form-group">
-                                            <label for="textExample">Placeholder</label>
+                                            <label for="textExample">HOW YOULD YOU DEFINE A SUCCESSFUL PROJECT WITH US?</label>
                                             <input type="text" class="form-control" id="textExample" placeholder="Text">
                                         </div>
                                         <div class="form-group">
-                                            <label for="textExample">Placeholder</label>
-                                            <input type="text" class="form-control" id="textExample" placeholder="Text">
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="textExample">Placeholder</label>
+                                            <label for="textExample">HELP US BETTER SERVE YOU</label>
                                             <input type="text" class="form-control" id="textExample" placeholder="Text">
                                         </div>
 

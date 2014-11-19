@@ -68,6 +68,25 @@ h3{
 	margin-bottom: 24px;
 	padding-bottom: 7px;
 }
+.videoBackground{
+	display: block;
+	padding: 6px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	line-height: 1.42857143;
+	background-color: #183659;
+	-webkit-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+	border: none;
+	border-radius: 4px;	
+}
+.videoTitle{
+	color: #ffffff;
+	font-weight: bold;
+	margin-bottom: 0px;
+	font-size: 12px;
+}
 .officialNavigation{
 	margin: 0px;
 }
@@ -161,6 +180,11 @@ h3{
 }
 .contactBackground{
 	background-image: url("../img/contact_background.png");
+	padding: 48px;
+	margin-top: 47px;	
+}
+.resourcesBackground{
+	background-image: url("../img/resources_background.png");
 	padding: 48px;
 	margin-top: 47px;	
 }
@@ -859,6 +883,9 @@ color: #292929;
 		padding: 10px;
 	}
 	.contactBackground{
+		padding: 10px;
+	}
+	.resourcesBackground{
 		padding: 10px;
 	}
 	.corrosionBackground{
