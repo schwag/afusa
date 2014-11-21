@@ -198,6 +198,11 @@ h3{
 	padding: 48px;
 	margin-top: 47px;
 }
+.electricalBackground{
+	background-image: url("../img/electrical_background.png");
+	padding: 48px;
+	margin-top: 47px;	
+}
 .needsLeft{
 	display: block;
 	padding: 14px 6px 6px 6px;
@@ -911,6 +916,9 @@ color: #292929;
 	}	
 	.architecturalBackground{
 		padding: 10px;	
+	}
+	.electricalBackground{
+		padding: 10px;
 	}
 	.headerAddress{
 		display: none;

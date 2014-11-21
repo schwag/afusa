@@ -57,7 +57,7 @@
 
                                 </div>
                                 <div class="faqBackground">
-                                  <?php include "php/corrosion-resistance-accordion.php";?>
+                                  <?php include "php/abrasion-resistance-accordion.php";?>
                                 </div>
                             </div>
 
@@ -118,10 +118,10 @@
                                     </div>
                                   </div>
                                 </div><!--END of photo gallery-->
-                              <h1 class="needssidebarHeading">SHORT VIDEO</h1>
+                             <!-- <h1 class="needssidebarHeading">SHORT VIDEO</h1>
                               <div class="needsSidebar">
                                 <iframe width="100%" height="218" src="//www.youtube.com/embed/t8HJA4OXuHg?list=UUauWBtjoD8Sbkm27cs1b1BA" frameborder="0" allowfullscreen></iframe>
-                              </div> 
+                              </div> -->
                               <h1 class="needssidebarHeading">CONTACT US</h1>
                               <div class="needsSidebar">
                                   <p class="needsPar"><b>Ask us about our Abrasion Resistant capabilities.</b>
