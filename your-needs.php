@@ -72,7 +72,7 @@
                                     </div>
                                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                       <div class="thumbnail">
-                                        <img src="img/placeholder.jpg" alt"" class="img-responsive">
+                                        <img src="img/aesthetic_needs.png" alt"" class="img-responsive">
                                         <div class="caption producthomeTitle">
                                           <p><a href="http://localhost/afusa/aesthetic.php" class="btn btn-block needsButton" role="button">AESTHETIC</a></p>
                                         </div>

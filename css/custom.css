@@ -203,6 +203,11 @@ h3{
 	padding: 48px;
 	margin-top: 47px;	
 }
+.aestheticBackground{
+	background-image: url("../img/aesthetic_background.png");
+	padding: 48px;
+	margin-top: 47px;		
+}
 .needsLeft{
 	display: block;
 	padding: 14px 6px 6px 6px;
@@ -918,6 +923,9 @@ color: #292929;
 		padding: 10px;	
 	}
 	.electricalBackground{
+		padding: 10px;
+	}
+	.aestheticBackground{
 		padding: 10px;
 	}
 	.headerAddress{
