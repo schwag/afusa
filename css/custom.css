@@ -208,6 +208,11 @@ h3{
 	padding: 48px;
 	margin-top: 47px;		
 }
+.consumerBackground{
+	background-image: url("../img/consumer_coatings_background.png");
+	padding: 48px;
+	margin-top: 47px;	
+}
 .needsLeft{
 	display: block;
 	padding: 14px 6px 6px 6px;
@@ -926,6 +931,9 @@ color: #292929;
 		padding: 10px;
 	}
 	.aestheticBackground{
+		padding: 10px;
+	}
+	.consumerBackground{
 		padding: 10px;
 	}
 	.headerAddress{

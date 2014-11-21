@@ -12,7 +12,7 @@
                             <div class="col-md-12">
                                <h1 class="mainHeading">MILITARY & CARC</h1>
                                <div class="bubblePar">
-                                <p>Test</p>
+                                <p>Perhaps there is no better example of our commitment to excellence than our experience with Military and CARC specification.  We approach every project as if the lives of our sons and daughters were dependent on our finish we provide. In fact, in some cases they are. Advanced Finishing is expert at meeting the most complex Military CARC (Chemical Agent Resistant Coatings) specification. If you have a military specification job we can fulfill your most challenging finishing needs.</p>
                                </div>
                             </div>
                         </div>
@@ -29,21 +29,16 @@
                             <div class="col-md-8">
                                 <div class="needsLeft">
                                   <h1 class="needsbodyHeading">YOUR APPLICATION</h1>
-                                  <p class="needsPar"></p>
-                                </div>
-                                <div class="needsLeft">
-                                  <h1 class="needsbodyHeading">YOUR COATING OPTIONS</h1>
-                                  <p class="needsPar"></p>
-                                  <p class="needsPar"></p>
-                                  <p class="needsPar"></p>
+                                  <p class="needsPar">Whether your product is intended for Military or CARC purposes, Advanced Finishing USA has experience with the most complex and basic applications. From fuel storage tanks, to water containers and electronic equipment, we understand how the products will be used and take the time to ensure the most stringent specifications are fully met.</p>
                                 </div>
                                 <div class="needsLeft">
                                   <h1 class="needsbodyHeading">MEETING YOUR SPECIFICATIONS</h1>
-                                  <p class="needsPar"></p>
+                                  <p class="needsPar">One of the capabilities that distinguish Advanced Finishing USA Military Spec and CARC services is our ability to meet the most exacting parameters. We understand the importance of attaining less than 1% gloss on a finish and how to achieve it.  We a strong track record for UV signature and Full CARC coverage to the most exacting specification.</p>
+                                  <p class="needsPar">Advanced Finishing provides a finished product that will adhere to the most stringent standards.  We are ISO 9001 compliant and PACCAR Approved. The coatings we use are FDA & DOT approved and meet most AAMA, and Military specifications. We are a Cardinal, and Sherwin Williams certified vendor.</p>
                                 </div>
-                                <div class="faqBackground">
-                                  <?php include "php/corrosion-resistance-accordion.php";?>
-                                </div>
+                                <!--<div class="faqBackground">
+
+                                </div>-->
                             </div>
 
                             <!--beginning of right sidebar content-->
@@ -103,13 +98,13 @@
                                     </div>
                                   </div>
                                 </div><!--END of photo gallery-->
-                              <h1 class="needssidebarHeading">SHORT VIDEO</h1>
+                             <!-- <h1 class="needssidebarHeading">SHORT VIDEO</h1>
                               <div class="needsSidebar">
                                 <iframe width="100%" height="218" src="//www.youtube.com/embed/t8HJA4OXuHg?list=UUauWBtjoD8Sbkm27cs1b1BA" frameborder="0" allowfullscreen></iframe>
-                              </div> 
+                              </div> -->
                               <h1 class="needssidebarHeading">CONTACT US</h1>
                               <div class="needsSidebar">
-                                  <p class="needsPar"><b>Ask us about our </b>
+                                  <p class="needsPar"><b>Ask us about our Military & CARC capabilities.</b>
                                    Call: <a href="tel:1-814-474-5200"><b>814.474.5200</b></a> or <a href="http://www.afusa.net/info_form.html" target="_blank"><b>CONTACT US</b></a></p>                                
                               </div>
 

@@ -7,11 +7,10 @@
                                     <ol class="footerMenu">
                                         <li><a href="http://localhost/afusa/">Home</a></li>
                                         <li><a href="http://localhost/afusa/your-needs.php">Your Needs</a></li>
-                                        <li><a href="http://localhost/afusa/architectural.php">Your Specs</a></li>
-                                        <li><a href="#">Services</a></li>
-                                        <li><a href="#">Why AFUSA</a></li>  
-                                        <li><a href="#">Resources</a></li> 
-                                        <li><a href="#">Contact</a></li> 
+                                        <li><a href="http://localhost/afusa/your-specs.php">Your Specs</a></li>
+                                        <li><a href="http://localhost/afusa/services.php">Services</a></li>
+                                        <li><a href="http://localhost/afusa/why-afusa.php">Why AFUSA</a></li>  
+                                        <li><a href="http://localhost/afusa/contact-us.php">Contact</a></li> 
                                     </ol> 
                             </div>
                          </div>
@@ -34,9 +33,9 @@
                             <h4>Resources</h4>
                                 <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li><a href="#">FAQ’S</a></li>
-                                        <li><a href="#">Learning</a></li>
-                                        <li><a href="#">Videos</a></li>
+                                        <li><a href="http://localhost/afusa/frequently-asked-questions.php">FAQ’S</a></li>
+                                        <li><a href="http://localhost/afusa/learning.php">Learning</a></li>
+                                        <li><a href="http://localhost/afusa/videos.php">Videos</a></li>
                                         <li><a href="#">Blog</a></li>
                                         <li><a href="#">PR & News</a></li>
                                     </ol> 
@@ -46,10 +45,10 @@
                             <h4>Contact Us</h4>
                                 <div class="footerBox">
                                     <ol class="footerMenu">
-                                        <li><a href="#">Phone: 814.474.5200</a></li>
-                                        <li><a href="#">Fax: 814.474.5205</a></li>
-                                        <li><a href="#">Address: 7401 Kiler Drive, Fairview, PA 16415</a></li>
-                                        <li><a href="#">Sales: greg@afusa.net</a></li>
+                                        <li>Phone: <a href="tel:1-814-474-5200">814.474.5200</a></li>
+                                        <li>Fax: 814.474.5205</li>
+                                        <li>Address: 7401 Kiler Drive, Fairview, PA 16415</li>
+                                        <li>Sales: <a href="mailto:quotes@afusa.net">greg@afusa.net</a></li>
                                         <li><a href="https://www.youtube.com/channel/UCauWBtjoD8Sbkm27cs1b1BA/videos" target="_blank" ><img src="img/youtubeicon.png"></a></li>
                                     </ol> 
                                 </div>
